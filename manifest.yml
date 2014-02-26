@@ -1,0 +1,5 @@
+---
+applications:
+- name: node-linkedin-js-v7
+  memory: 128M
+  host: node-linkedin-js-v7
